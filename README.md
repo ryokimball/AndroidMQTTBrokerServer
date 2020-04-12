@@ -7,7 +7,7 @@ Nothing special here, yet. I tried getting [Moquette](https://moquette-io.github
 failed to change the outcome of write error:
 > Can't create temp file for subscriptions storage
 
-This is not an uncommon error, but if those two changes didn't fix it, I don't know what to do. So I'm probably going to try [Paho](https://github.com/eclipse/paho.mqtt.android) next. 
+This is not an uncommon error, but if those two changes didn't fix it, I don't know what to do. ~~So I'm probably going to try [Paho](https://github.com/eclipse/paho.mqtt.android) next~~ ("The Paho Android Service is an MQTT client library" --misread that before). 
 
 The goal of this project is simple. I have an older Android device (Galaxy S5 running 6.0.1) which will be the main interface for my IoT things, and will always be on anyway, so it might as well be the server, too. 
 
