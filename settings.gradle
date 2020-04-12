@@ -1,0 +1,2 @@
+rootProject.name='MQTTBroker'
+include ':app'

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MQTTBroker</string>
+    <string name="description_en">Simple MQTT broker service</string>
+    <string name="btn_toggle_service">Toggle service</string>
+</resources>
